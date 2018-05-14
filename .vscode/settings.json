@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "streambuf": "cpp",
+        "xmemory0": "cpp"
+    }
+}
